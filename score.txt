@@ -1,0 +1,14 @@
+default,1480,Jon,None
+default,470,Jon,None
+default,470,dfv,None
+default,470,dd,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
+default,20,ATC Noob,None
